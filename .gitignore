@@ -1,0 +1,10 @@
+#files to ignore
+.env
+env
+data
+etc
+Include
+Lib
+Scripts
+share
+pyvenv.cfg
